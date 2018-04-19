@@ -1,0 +1,57 @@
+@media only screen and (max-width: 1280px) {
+  nav img {
+    width: 350px;
+  }
+
+  .nav > li > a {
+    font-size: 65px;
+  }
+
+  .nav > li {
+    width: 390px;
+  }
+
+  #First_Row > img {
+    width: 195px;
+  }
+
+  #Second_Row > img {
+    width: 244px;
+  }
+
+  #Third_Row > img {
+    width: 325px;
+  }
+
+  #Fourth_Row > img {
+    width: 488px;
+  }
+
+  #Fifth_Row > img {
+    width: 977px;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  .nav > li > a {
+    font-size: 30px;
+  }
+
+  .nav > li {
+    width: 320px;
+  } 
+
+  header img {
+    margin-top: 155px;
+  }
+
+  .Main_Context h1 {
+    font-size: 70px;
+  }
+
+  .Main_Context img {
+    margin-left: 10px;
+    margin-top: 25px;
+    width: 85px;
+    height: 100px;
+  }
